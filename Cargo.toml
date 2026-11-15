@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-okular component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-okular"
+name = "sigmaos_archlinux_okular"
 path = "src/lib.rs"
