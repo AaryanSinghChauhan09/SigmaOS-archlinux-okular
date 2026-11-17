@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-okular"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-okular component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
